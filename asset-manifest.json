@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/nomad-movie-2021/static/css/main.206762e9.chunk.css",
-    "main.js": "/nomad-movie-2021/static/js/main.5a54e4c7.chunk.js",
-    "main.js.map": "/nomad-movie-2021/static/js/main.5a54e4c7.chunk.js.map",
+    "main.css": "/nomad-movie-2021/static/css/main.22d5ade3.chunk.css",
+    "main.js": "/nomad-movie-2021/static/js/main.39581116.chunk.js",
+    "main.js.map": "/nomad-movie-2021/static/js/main.39581116.chunk.js.map",
     "runtime-main.js": "/nomad-movie-2021/static/js/runtime-main.d69c14d3.js",
     "runtime-main.js.map": "/nomad-movie-2021/static/js/runtime-main.d69c14d3.js.map",
-    "static/js/2.20000006.chunk.js": "/nomad-movie-2021/static/js/2.20000006.chunk.js",
-    "static/js/2.20000006.chunk.js.map": "/nomad-movie-2021/static/js/2.20000006.chunk.js.map",
+    "static/js/2.fe8ce0cf.chunk.js": "/nomad-movie-2021/static/js/2.fe8ce0cf.chunk.js",
+    "static/js/2.fe8ce0cf.chunk.js.map": "/nomad-movie-2021/static/js/2.fe8ce0cf.chunk.js.map",
     "index.html": "/nomad-movie-2021/index.html",
-    "static/css/main.206762e9.chunk.css.map": "/nomad-movie-2021/static/css/main.206762e9.chunk.css.map",
-    "static/js/2.20000006.chunk.js.LICENSE.txt": "/nomad-movie-2021/static/js/2.20000006.chunk.js.LICENSE.txt"
+    "static/css/main.22d5ade3.chunk.css.map": "/nomad-movie-2021/static/css/main.22d5ade3.chunk.css.map",
+    "static/js/2.fe8ce0cf.chunk.js.LICENSE.txt": "/nomad-movie-2021/static/js/2.fe8ce0cf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d69c14d3.js",
-    "static/js/2.20000006.chunk.js",
-    "static/css/main.206762e9.chunk.css",
-    "static/js/main.5a54e4c7.chunk.js"
+    "static/js/2.fe8ce0cf.chunk.js",
+    "static/css/main.22d5ade3.chunk.css",
+    "static/js/main.39581116.chunk.js"
   ]
 }
